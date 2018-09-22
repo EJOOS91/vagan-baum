@@ -1,5 +1,6 @@
 # Authors:
 # Christian F. Baumgartner (c.f.baumgartner@gmail.com)
+# test git repositories 
 
 
 import logging
